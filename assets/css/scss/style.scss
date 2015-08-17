@@ -196,7 +196,7 @@ article {
       transition-property: color;
       transition-duration: 250ms;
       transition-timing-function: ease-out;
-      &:hover {
+      &:focus, &:hover {
         color: $red;
       }
     }

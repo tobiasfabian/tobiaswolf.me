@@ -59,6 +59,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/images\/fb-share-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68135,
+		"inputAbbreviatedPath": "\/assets\/images\/fb-share-image.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/fb-share-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/sep_circle.png": {
 		"fileType": 32768,
 		"ignore": 0,
