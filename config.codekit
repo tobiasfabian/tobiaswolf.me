@@ -253,17 +253,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/portfolio\/iwantmymkg.de.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5075,
-		"inputAbbreviatedPath": "\/portfolio\/iwantmymkg.de.jpg",
-		"outputAbbreviatedPath": "\/portfolio\/iwantmymkg.de.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/portfolio\/iwantmymkg.de.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -271,17 +260,6 @@
 		"initialSize": 3382,
 		"inputAbbreviatedPath": "\/portfolio\/iwantmymkg.de.png",
 		"outputAbbreviatedPath": "\/portfolio\/iwantmymkg.de.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/portfolio\/iwantmymkg.de@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 11755,
-		"inputAbbreviatedPath": "\/portfolio\/iwantmymkg.de@2x.jpg",
-		"outputAbbreviatedPath": "\/portfolio\/iwantmymkg.de@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -297,17 +275,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/portfolio\/kongressradio.de.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3688,
-		"inputAbbreviatedPath": "\/portfolio\/kongressradio.de.jpg",
-		"outputAbbreviatedPath": "\/portfolio\/kongressradio.de.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/portfolio\/kongressradio.de.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -315,17 +282,6 @@
 		"initialSize": 1662,
 		"inputAbbreviatedPath": "\/portfolio\/kongressradio.de.png",
 		"outputAbbreviatedPath": "\/portfolio\/kongressradio.de.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/portfolio\/kongressradio.de@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7710,
-		"inputAbbreviatedPath": "\/portfolio\/kongressradio.de@2x.jpg",
-		"outputAbbreviatedPath": "\/portfolio\/kongressradio.de@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
