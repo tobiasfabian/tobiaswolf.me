@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>vimeo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="11" cy="11" r="11"></circle>
+        <path id="path-2" d="M13.6325004,13.3756301 C12.2597765,15.1653097 11.098373,16.0600485 10.1482897,16.0600485 C9.5599651,16.0600485 9.06170147,15.5152403 8.65501335,14.4252197 C8.38321483,13.4260678 8.11171921,12.427017 7.84002166,11.4278651 C7.5378326,10.3384509 7.21383504,9.79303625 6.86742318,9.79303625 C6.79190116,9.79303625 6.52757407,9.95243559 6.07504772,10.2700214 L5.6000061,9.6561772 C6.09826973,9.21699511 6.58986965,8.77791409 7.07349331,8.33822661 C7.73804674,7.76218547 8.23691615,7.45925596 8.5693948,7.42862945 C9.35520752,7.35292234 9.83883118,7.89166585 10.0203667,9.04496106 C10.2165423,10.2892261 10.3522396,11.0631771 10.4285693,11.3661067 C10.6550345,12.398412 10.9042167,12.9139077 11.1765201,12.9139077 C11.3878404,12.9139077 11.7052752,12.5791387 12.1285217,11.9096008 C12.5513642,11.2398608 12.7778293,10.7303287 12.8084218,10.380297 C12.8685971,9.80233539 12.642031,9.51264704 12.1285217,9.51264704 C11.8868108,9.51264704 11.6376285,9.56844186 11.3812777,9.6787175 C11.877421,8.04843718 12.8254849,7.25669648 14.2248636,7.30187816 C15.2622818,7.33240359 15.7513576,8.00729861 15.6915862,9.32666429 C15.6466566,10.3124739 14.9601937,11.662365 13.6325004,13.3756301 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="assets" sketch:type="MSArtboardGroup" transform="translate(-1.000000, -49.000000)">
+            <g id="vimeo" sketch:type="MSLayerGroup" transform="translate(1.000000, 49.000000)">
+                <g id="Oval-2">
+                    <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <use fill="none" xlink:href="#path-1"></use>
+                </g>
+                <g id="Fill-1">
+                    <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <use fill="none" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

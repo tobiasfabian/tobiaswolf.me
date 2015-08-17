@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/librebaskerville-bold.woff2') format('woff2'),
+         url('../fonts/librebaskerville-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url('../fonts/librebaskerville-italic.woff2') format('woff2'),
+         url('../fonts/librebaskerville-italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/firasans-medium-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/firasans-book-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-book-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
