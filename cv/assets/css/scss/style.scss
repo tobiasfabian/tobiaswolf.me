@@ -231,13 +231,12 @@ table {
 
 
 .contact {
-  margin-bottom: 7em;
+  margin-bottom: 8em;
   @media (max-height: 700px) {
     margin-bottom: 3.5em;
   }
   p {
     margin-bottom: 1em;
-    font-weight: 700;
     a {
       position: relative;
       color: inherit;
@@ -246,7 +245,7 @@ table {
       transition-duration: 250ms;
       transition-timing-function: ease-out;
       &:focus, &:hover {
-        color: $red;
+        text-decoration: underline;
       }
     }
     .small {
@@ -255,26 +254,6 @@ table {
       font-family: "Fira Sans", sans-serif;
       font-size: 0.7em;
       font-weight: 400;
-      &::after {
-        position: absolute;
-        left: 0;
-        right: 0;
-        bottom: 1px;
-        display: block;
-        content: '';
-        height: 1px;
-        background: black;
-        opacity: 0;
-        transition-property: opacity;
-        transition-duration: 250ms;
-        transition-timing-function: ease-out;
-      }
-      &:focus, &:hover {
-        color: inherit;
-        &::after, &::after {
-          opacity: 1;
-        }
-      }
     }
   }
   .mail {
