@@ -500,8 +500,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/cellulart.de.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -511,8 +511,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/cellulart.de@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -522,9 +522,9 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/chrisroemer.de.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"\/portfolio\/chrisroemer.de@2x.jpg": {
 		"ft": 16384,
@@ -532,9 +532,9 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/chrisroemer.de@2x.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 70
 		},
 	"\/portfolio\/christina-meissner.de.jpg": {
 		"ft": 16384,
@@ -542,9 +542,9 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/christina-meissner.de.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"\/portfolio\/christina-meissner.de@2x.jpg": {
 		"ft": 16384,
@@ -552,9 +552,9 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/christina-meissner.de@2x.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 70
 		},
 	"\/portfolio\/eichsfelderdomfestspiele.de.jpg": {
 		"ft": 16384,
@@ -562,9 +562,9 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/eichsfelderdomfestspiele.de.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"\/portfolio\/eichsfelderdomfestspiele.de@2x.jpg": {
 		"ft": 16384,
@@ -572,9 +572,9 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/eichsfelderdomfestspiele.de@2x.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 70
 		},
 	"\/portfolio\/equipmentschmiede.de.jpg": {
 		"ft": 16384,
@@ -582,9 +582,9 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/equipmentschmiede.de.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 80
 		},
 	"\/portfolio\/equipmentschmiede.de@2x.jpg": {
 		"ft": 16384,
@@ -592,9 +592,9 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/equipmentschmiede.de@2x.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 70
 		},
 	"\/portfolio\/freiraumsyndikat.com.png": {
 		"ft": 32768,
@@ -602,8 +602,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/freiraumsyndikat.com.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -613,8 +613,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/freiraumsyndikat.com@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -624,8 +624,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/iwantmymkg.de.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -635,8 +635,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/iwantmymkg.de@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -646,8 +646,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/kongressradio.de.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -657,8 +657,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/kongressradio.de@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -668,8 +668,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/madlentamm.de.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -679,8 +679,8 @@
 		"oA": 0,
 		"oAP": "\/portfolio\/madlentamm.de@2x.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
