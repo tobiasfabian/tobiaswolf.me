@@ -1,0 +1,11 @@
+{
+  "author": "Tobias Wolf <hello@tobiaswolf.me>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "css": "npx sass --style=compressed --embed-sources assets/css/scss:assets/css",
+    "css-dev": "npx sass --watch --embed-sources assets/css/scss:assets/css"
+  },
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}

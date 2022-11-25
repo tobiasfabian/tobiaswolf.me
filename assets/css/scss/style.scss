@@ -2,6 +2,7 @@
 @import 'fonts';
 
 $red: #D90000;
+$mastodon: #6263FF;
 $twitter: #55ACEE;
 $vimeo: #1AB7EA;
 $a500px: #2A2724;
@@ -28,17 +29,22 @@ body {
 p {
   margin-bottom: 0.75em;
 }
-
-.center {
-  margin: 0 auto;
-  max-width: 50em;
+h2 {
+  margin-block: 0.83em;
 }
 
-article {
+.intro,
+.portfolio,
+.contact {
   margin: 6em 0 10em;
   @media (max-height: 700px) {
     margin: 3em 0 5em;
   }
+}
+
+.intro {
+  max-width: 50em;
+  margin-inline: auto;
 }
 
 .seperator {
@@ -60,7 +66,7 @@ article {
   @media (max-height: 500px) {
     margin-top: 3em;
   }
-  p, h1 {
+  p, h2 {
     font-size: 1.5em;
     font-weight: 700;
     @media (max-height: 500px) {
@@ -106,7 +112,10 @@ article {
 
 
 .portfolio {
-  h1 {
+  max-width: calc(334px * 3);
+  margin-inline: auto;
+
+  h2 {
     margin-bottom: 2em;
     font-weight: normal;
     font-style: italic;
@@ -118,38 +127,33 @@ article {
     }
   }
   .container {
-    margin: 0 -3em;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     justify-content: center;
+    justify-items: start;
     @media (max-width: 960px) {
-      margin: 0 auto;
-      max-width: 42.25em;
+      max-width: calc(332px * 2);
+      margin-inline: auto;
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @media (max-width: 540px) {
+      grid-template-columns: 1fr;
+      justify-items: center;
     }
     a {
       position: relative;
-      display: flex;
-      max-width: 21em;
-      width: 18.5em;
-      flex: 0 1 18.5em;
+      display: grid;
+      max-width: 332px;
       margin: -1px;
-      height: 7.07em;
       border: 2px solid black;
       text-align: center;
       color: inherit;
       text-decoration: none;
       overflow: hidden;
       transition: color 300ms;
-      &:last-of-type {
-        margin-right: auto;
-      }
-      @media (max-width: 960px) {
-        flex-basis: calc(50% - 2px);
-      }
-      @media (max-width: 528px) {
-        flex-basis: 100%;
-      }
       span {
+        grid-column-start: 1;
+        grid-row-start: 1;
         z-index: 1;
         position: relative;
         margin: auto;
@@ -159,14 +163,8 @@ article {
         letter-spacing: 0.06em;
       }
       figure {
-        position: absolute;
-        left: 0;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        grid-column-start: 1;
+        grid-row-start: 1;
         margin: 0;
         opacity: 0;
         filter: blur(1px);
@@ -176,9 +174,7 @@ article {
         transition-timing-function: ease-out;
         img {
           width: 100%;
-          height: 100%;
-          margin: auto;
-          object-fit: cover;
+          height: auto;
         }
       }
       &:focus, &:hover {
@@ -300,6 +296,15 @@ article {
         .title {
           opacity: 1;
           transform: translateY(0);
+        }
+      }
+      &.mastodon {
+        &:focus, &:hover {
+          background-color: $mastodon;
+          border-color: $mastodon;
+        }
+        .title {
+          color: $mastodon;
         }
       }
       &.twitter {
