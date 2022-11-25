@@ -130,11 +130,11 @@ h2 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-content: center;
-    justify-items: start;
     @media (max-width: 960px) {
       max-width: calc(332px * 2);
       margin-inline: auto;
       grid-template-columns: repeat(2, 1fr);
+      justify-items: start;
     }
     @media (max-width: 540px) {
       grid-template-columns: 1fr;
